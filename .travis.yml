@@ -1,7 +1,8 @@
 language: ruby
 script: true
 
-deloy:
+deploy:
+  edge: true
   provider: appfog
   email: aa1ronham@gmail.com
   password:
