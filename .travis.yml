@@ -1,0 +1,8 @@
+language: ruby
+script: true
+
+deloy:
+  provider: appfog
+  email: aa1ronham@gmail.com
+  password:
+   - secure: "WFKvxFg1V/oRiEc0GGXqjI7PZhdKVXH9LilsO3FXFKWOKUVcJ8alozFwW8kHJGeW8mnY0azKpDdd3hEjtrm9okEkah8JEl64TcnHtOAf5s46fw1qCF5SU9OVOGqLoF9u20IGVx9qDqokGFYPkRvyeStvyg8xkv16V91Xc2YDr5U="
