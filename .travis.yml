@@ -6,4 +6,4 @@ deploy:
   provider: appfog
   email: "aa1ronham@gmail.com"
   password:
-   - secure: "WFKvxFg1V/oRiEc0GGXqjI7PZhdKVXH9LilsO3FXFKWOKUVcJ8alozFwW8kHJGeW8mnY0azKpDdd3hEjtrm9okEkah8JEl64TcnHtOAf5s46fw1qCF5SU9OVOGqLoF9u20IGVx9qDqokGFYPkRvyeStvyg8xkv16V91Xc2YDr5U="
+    - secure: "TzSKHcX6oc48P4MP+ao1eGIYc/p047HyxDcvZQ1daUjzgwfoD3OeMAM8nKVt9yJkoRTVsYQxmpfv6hBTSdgGt5n/POyHmAh4zrs+Ctn4FVryflgDftsOy15wV+pA7ROpKH48MRKg7oZbAEiLKk0BCzWaFG1FUD8YP49WuGhXuLI="
